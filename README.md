@@ -14,7 +14,10 @@
 
 ->C, C++, C#, Java, Python, HTML/CSS , Ms Sql vs...
 
-->Net Core MVC (Web Design and Developer with C#), Android Studio (Java Mobile Programming), Image Processing with Python, SQLite Studio and SQL Server (Database), R (Machine earning)
+->Net Core MVC (Web Design and Developer with C#), Android Studio (Java Mobile Programming), Image Processing with Python, SQLite Studio and SQL Server (Database)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FiratAbdullahOzturk&layout=compact)](https://github.com/FiratAbdullahOzturk/FiratAbdullahOzturk/edit/main/README.md)
 
 📫 Contact
